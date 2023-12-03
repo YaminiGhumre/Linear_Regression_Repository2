@@ -8,4 +8,4 @@ Solution : Data Pre-processing Steps.
 Fitting the MLR model to the training set.
 Predicting the result of the test set.
 
-Result : The r2 score tells that our model is 92% accurate with the training dataset and 93% accurate with the test dataset.
+Result : The r2 score tells that our model is 92% accurate.
